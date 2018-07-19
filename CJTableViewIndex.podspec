@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "CJTableViewIndex"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Custom UITableView indexes."
   s.homepage     = "https://github.com/dreamCC/CJTableViewIndex"
   s.license      = "MIT"
